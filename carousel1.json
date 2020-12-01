@@ -1,0 +1,68 @@
+{
+  "random": true,
+  "items": [
+    {
+      "title": "Score a FREE Harman Kardon Speaker",
+      "content": "Visit the 2degrees team at the Sports Expo to score a FREE Harman Kardon speaker when you join a $40+ Pay Monthly Plan. T&Cs apply",
+      "buttons": [
+        {
+          "type": "button",
+          "button": {
+            "label": "Expo deal",
+            "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "http://eventocloud.com/racepack/15_2dgrees.jpg"
+        }
+      }
+    },
+
+    {
+      "title": "No Button Item",
+      "content": "Visit the 2degrees team at the Sports Expo to score a FREE Harman Kardon speaker when you join a $40+ Pay Monthly Plan. T&Cs apply",
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "http://eventocloud.com/racepack/15_2dgrees.jpg"
+        }
+      }
+    },
+    {
+      "title": "Rifters Gin Expo Deal",
+      "content": "GET 10% OFF RIFTERS GIN ONLINE WITH CODE QTM10",
+      "buttons": [
+        {
+          "type": "button",
+          "button": {
+            "label": "Expo Deal",
+            "open": "https://riftersgin.com/shop/"
+          }
+        },
+        {
+          "type": "social_media",
+          "social_media": {
+            "medium": "facebook",
+            "open": "https://www.facebook.com/riftersgin"
+          }
+        },
+        {
+          "type": "social_media",
+          "social_media": {
+            "medium": "instagram",
+            "open": "https://www.instagram.com/riftersgin/"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "http://eventocloud.com/racepack/15_Race-bag-offer-image.jpg"
+        }
+      }
+    }
+  ]
+}
