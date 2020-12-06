@@ -6,9 +6,9 @@
       "content": "Visit the 2degrees team at the Sports Expo to score a FREE Harman Kardon speaker when you join a $40+ Pay Monthly Plan. T&Cs apply",
       "buttons": [
         {
-          "type": "button",
-          "button": {
-            "label": "Expo deal",
+          "type": "label",
+          "label": {
+            "text": "Expo deal",
             "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
           }
         }
@@ -36,9 +36,9 @@
       "content": "GET 10% OFF RIFTERS GIN ONLINE WITH CODE QTM10",
       "buttons": [
         {
-          "type": "button",
-          "button": {
-            "label": "Expo Deal",
+          "type": "label",
+          "label": {
+            "text": "Expo Deal",
             "open": "https://riftersgin.com/shop/"
           }
         },
