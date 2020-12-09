@@ -1,0 +1,66 @@
+{
+  "random": false,
+  "items": [
+    {
+      "title": "Cape Epic T Shirt R199",
+      "content": "Official Absa Cape Epic® Merchandise",
+        "buttons": [
+         {
+          "type": "label",
+          "label": {
+            "text": "Purchase",
+            "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0014/0384/6756/products/Mens-Brand2A_720x.png?v=1581578595"
+      }
+    }
+    },
+
+    {
+      "title": "Trucker Cap R199",
+      "content": "Official Absa Cape Epic® Merchandise",
+        "buttons": [
+         {
+          "type": "label",
+          "label": {
+            "text": "Purchase",
+            "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0014/0384/6756/products/124517.555.10.00_2_960x.jpg?v=1582019374"
+      }
+    }
+    },
+
+
+    {
+      "title": "Cape Epic Hoodie R199",
+      "content": "Official Absa Cape Epic® Merchandise",
+        "buttons": [
+         {
+          "type": "label",
+          "label": {
+            "text": "Purchase",
+            "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0014/0384/6756/products/Hoodie_Blue_name_960x.jpg?v=1581692350"
+      }
+    }
+    }
+    
+  ]
+}
