@@ -1,0 +1,43 @@
+{
+  "random": false,
+  "items": [
+    {
+      "title": "Egan Bernal",
+      "content": "Egan Bernal, the Tour’s defending champion, came out the post-quarantine gates quickly, winning the Route d’Occitanie, a tough four-day stage race in southern France that always spends a few days climbing through the Pyrenees. But then things got tricky: Bernal finished second to Jumbo-Visma’s Primož Roglič at the Tour de l’Ain a week later, then seemed to regress a bit more at the Critérium du Dauphiné—before abandoning the race because of back pain with two days left.", 
+      "buttons": [
+        {
+          "type": "label",
+          "label": {
+            "text": "Expo deal",
+            "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/egan-arley-bernal-gomez-of-colombia-and-team-ineos-during-news-photo-1597863990.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        }
+      }
+    },
+    {
+      "title": "PRIMOZ ROGLIC (TEAM JUMBO-VISMA)",
+      "content": "Primož Roglič heads back to the Tour for the first time since 2018, when he won a mountain stage (the second of his career) and finished fourth overall. Instead of racing last year’s Tour he tackled the Tours of Italy and Spain, finishing third at the Giro and winning the Vuelta, proving that he’s ready to win the Tour de France. His summer season started with a win at the Slovenian national championships followed by a resounding defeat of Bernal and Team INEOS at the Tour de l’Ain.", 
+      "buttons": [
+        {
+          "type": "label",
+          "label": {
+            "text": "Expo deal",
+            "open": "https://queenstown-marathon.co.nz/athlete-info/marathon-sports-expo"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "image": {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/primoz-roglic-of-slovenia-and-team-jumbo-visma-yellow-news-photo-1597864343.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        }
+      }
+    }
+  ]
+}
