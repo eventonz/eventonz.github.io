@@ -7,18 +7,13 @@
         "items": [
           {
             "shape": "rectangle",
-            "image": "http://linktomediaimage.com",
-            "open": "http://mylinktopromotion.com"
+            "image": "https://raw.githubusercontent.com/eventonz/eventonz.github.io/main/rectangle.png",
+            "open": "https://stuff.co.nz"
           },
           {
-            "shape": "rectangle",
-            "image": "http://linktomediaimage2.com",
-            "open": "http://mylinktopromotion2.com"
-          },
-          {
-            "shape": "rectangle",
-            "image": "http://linktomediaimage3.com",
-            "open": "http://mylinktopromotion3.com"
+            "shape": "square",
+            "image": "https://raw.githubusercontent.com/eventonz/eventonz.github.io/main/square.png",
+             "open": "https://stuff.co.nz"
           }
         ]
       }
@@ -59,22 +54,27 @@
     {
       "type": "carousel",
       "carousel": {
-        "title": "Second Carousel",
+        "title": "Stage promoted by",
         "items": [
           {
+            "shape": "rectangle",
+            "image": "https://raw.githubusercontent.com/eventonz/eventonz.github.io/main/rectangle.png",
+            "open": "https://stuff.co.nz"
+          },
+          {
             "shape": "square",
-            "image": "http://linktomediaimage.com",
-            "open": "http://mylinktopromotion.com"
+            "image": "https://raw.githubusercontent.com/eventonz/eventonz.github.io/main/square.png",
+             "open": "https://stuff.co.nz"
+          },
+          {
+            "shape": "square",
+            "image": "https://raw.githubusercontent.com/eventonz/eventonz.github.io/main/square.png",
+             "open": "https://stuff.co.nz"
           },
           {
             "shape": "rectangle",
-            "image": "http://linktomediaimage2.com",
-            "open": "http://mylinktopromotion2.com"
-          },
-          {
-            "shape": "square",
-            "image": "http://linktomediaimage3.com",
-            "open": "http://mylinktopromotion3.com"
+            "image": "https://raw.githubusercontent.com/eventonz/eventonz.github.io/main/rectangle.png",
+            "open": "https://stuff.co.nz"
           }
         ]
       }
