@@ -1,5 +1,4 @@
 {
-  "title": "Race Updates",
   "items": [
     {
       "type": "carousel",
@@ -32,9 +31,12 @@
           "text": "31 October 2020"
         },
         "media": {
-          "height": 720,
-          "width": 720,
-          "video": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/123472491_821663875334592_3088546788110047389_n.mp4"
+          "type": "video",
+          "video": {
+            "height": 720,
+            "width": 720,
+            "video": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/123472491_821663875334592_3088546788110047389_n.mp4"
+          }
         },
         "text": "<p>And that is a wrap! Our final finisher for 2020 ASB Bank Auckland Marathon made it to Victoria Park <br /><br />#AucklandMarathon #RunTheCity</p>"
       }
@@ -43,11 +45,14 @@
       "type": "item",
       "item": {
         "media": {
-          "height": 718,
-          "width": 720,
-          "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/s720x720/123140197_3513523245375183_5709529465132723707_n.jpg",
-          "open": "http://link-to-some-promotion.com"
+          "type": "image",
+          "image": {
+            "height": 718,
+            "width": 720,
+            "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/s720x720/123140197_3513523245375183_5709529465132723707_n.jpg"
+          }
         },
+        "open": "http://link-to-some-promotion.com",
         "text": "<p>We know there will be some sore people out there today (anyone avoiding taking the stairs today?) but knowing you earned a medal makes it worth it!<br /><br />Share your #MedalMonday presented by Always Advancing with us and our favourite photo will win a free entry for 2021!<br /><br />: @giuls_giuliana <br /><br />#AucklandMarathon #RunTheCity</p>"
       }
     },
