@@ -41,7 +41,7 @@
             "image":"http://",
             "datetime":"2020-06-11T20:20:00+1200",
             "owner":{         
-              "name": "Jeremy Smith",
+              "name": "Jeremy Smith"
               },
               "location":{
                 "longitude": 172.80628516,
