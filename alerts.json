@@ -6,7 +6,7 @@
             "status":"open",
             "title":"Caravan blocking aid station #2",
             "image":"https://images.unsplash.com/photo-1541292844818-2a39a2003bdc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwY2FyYXZhbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-            "datetime":"2020-06-11T20:20:00",
+            "datetime":"2020-06-11T20:20:00+12:00",
             
               "location":{
                 "longitude": 172.80628516,
@@ -19,7 +19,7 @@
             "type":"hazard",
             "status":"open",
             "title":"Thunderstroms in the area ",
-            "datetime":"2020-06-11T15:20:00"
+            "datetime":"2020-06-11T15:20:00+12:00"
           },
            {
             "id":314,
@@ -39,7 +39,7 @@
             "status":"open",
             "title":"Fire trucks block the route",
             "image":"https://images.unsplash.com/photo-1604802537950-afa0b1e92701?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Y3Jhc2glMjBmaXJlJTIwdHJ1Y2t8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-            "datetime":"2020-06-11T20:20:00",
+            "datetime":"2020-06-11T20:20:00+12:00",
             "owner":{         
               "name": "Jeremy Smith"
               },
