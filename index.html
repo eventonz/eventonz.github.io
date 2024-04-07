@@ -11,6 +11,16 @@
         
     <!-- don't forget a manifest ! -->
     <link rel="manifest" href="manifest.json">
+
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(function(OneSignal) {
+        OneSignal.init({
+        appId: "e7b9aee9-c8e2-459e-90ab-f96eade7646e",
+        });
+    });
+    </script>
     
     <!-- apple touch icon ! -->
     <link rel="apple-touch-icon" href="/example.png">
